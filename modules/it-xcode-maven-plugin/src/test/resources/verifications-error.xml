@@ -1,0 +1,4 @@
+<checks>
+    <check severity="ERROR" class="com.sap.prd.mobile.ios.mios.verification.AppStoreMetadataCheck"/>
+    <check severity="ERROR" class="com.sap.prd.mobile.ios.mios.verification.XCodeValidationCheck"/>
+</checks>
