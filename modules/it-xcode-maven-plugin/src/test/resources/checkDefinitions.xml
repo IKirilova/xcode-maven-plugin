@@ -1,3 +1,0 @@
-<checks>
-    <check groupId="com.sap.prd.mobile.ios.mios" artifactId="it-xcode-maven-plugin-verification-checks" version="${xcode.maven.plugin.version}" severity="${SERVERITY}" class="com.sap.prd.mobile.ios.mios.TestMetadataCheck"/>
-</checks>
